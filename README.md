@@ -61,3 +61,6 @@ Aunque otros modelos fueron más precisos, Naive Bayes es preferido porque permi
 - scikit-learn 1.6.1  
 
 ---
+https://raw.githubusercontent.com/JaznaLaProfe/InteligenciaArtificial/main/data/dataset_churn_2025.csv
+https://github.com/Etriuus/Evaluacion2_parte2/blob/main/Daniel_Matias_T3.ipynb
+https://colab.research.google.com/drive/1Zk0ZTI8-5-GfVRFQfBIzL1AqY-mRZHBh?usp=sharing#scrollTo=48lMRPZu4RSM
